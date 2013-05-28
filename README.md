@@ -3,6 +3,10 @@
 A d3.chart based horizontal scale that takes a d3 color scale as data.
 See examples in the `example` folder.
 
+For example:
+
+![rendered](https://raw.github.com/iros/d3.chart.horizontal-legend/master/example/rendered_legends.gif)
+
 ### Sample Use
 
 ```javascript
